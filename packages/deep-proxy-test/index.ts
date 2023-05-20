@@ -1,0 +1,1 @@
+import {DeepProxy} from "@qiwi/deep-proxy";
